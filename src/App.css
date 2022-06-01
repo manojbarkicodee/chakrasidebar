@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  background-color:#edf2f7;
 }
 
 .App-logo {
@@ -12,7 +13,13 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.fa-solid{
+  font-size: 25px;
+  margin-left: 30px;
+  margin-right: 30px;
+  
+  
+  }
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
